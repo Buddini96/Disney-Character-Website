@@ -6,7 +6,7 @@ import { FaSearch } from "react-icons/fa";
 function Navbar() {
   return (
     <div className="fixed bg-white inset-0 w-full h-[12vh] z-[1000]">
-      <div className="flex items-center h-full justify-between  mx-auto w-[90%]">
+      <div className="flex items-center h-full justify-between  mx-auto w-[95%]">
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <img src={logo} alt="Logo" width={120} height={120} className="" />

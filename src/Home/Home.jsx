@@ -1,9 +1,10 @@
 import React from "react";
+import Characters from "../components/Characters/Characters";
 
 function Home() {
   return (
     <div>
-      <h1>Welcome to Home Page</h1>
+     <Characters />
     </div>
   );
 }
